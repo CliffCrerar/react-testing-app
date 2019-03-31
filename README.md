@@ -8,4 +8,4 @@ API implemented and their branches:
 
 `master` -> Freshly strapped app. to update run: npm install react-scripts@latest
 
-`ScrollEffect` -> testing scroll effects API.
+`ScrollEffect` -> testing scroll effects API | Not great API does not work on first use.
